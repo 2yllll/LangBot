@@ -10,7 +10,7 @@
         },
         {
             "adapter": "aiocqhttp",
-            "enable": true,
+            "enable": false,
             "host": "0.0.0.0",
             "port": 2280,
             "access-token": ""
@@ -27,11 +27,11 @@
         },
         {
             "adapter": "qqofficial",
-            "enable": false,
-            "appid": "1234567890",
-            "secret": "xxxxxxx",
+            "enable": true,
+            "appid": "102786389",
+            "secret": "12468ACEGJMPSVYbeimquy26BGLQVafk",
             "port": 2284,
-            "token": "abcdefg"
+            "token": "G71XLjH3cPYRJ4G7IxkHxXijkavMxero"
         },
         {
             "adapter": "wecom",

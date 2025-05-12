@@ -41,3 +41,4 @@ botpy.log*
 /venv
 test.py
 /web_ui
+/.history/
